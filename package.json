@@ -1,0 +1,12 @@
+{
+  "name": "mediamilano-sales-copilot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Configuratore deterministico servizi Mediamilano",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
